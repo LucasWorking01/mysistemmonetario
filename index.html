@@ -517,8 +517,9 @@ main{flex:1;min-width:0;}
 
 /* ================= RESPONSIVE ================= */
 @media (max-width:860px){
+  .app{flex-direction:column;}
   .sidebar{display:none;}
-  .mobile-topbar{display:flex;}
+  .mobile-topbar{display:flex;width:100%;}
   .bottom-nav{display:flex;}
   main{padding-bottom:calc(var(--nav-h) + 14px);}
   .page-header{padding:18px 16px 14px 16px;flex-direction:column;align-items:stretch;}
