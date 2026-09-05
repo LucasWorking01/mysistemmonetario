@@ -8,14 +8,6 @@ Funciona bem tanto no computador quanto no celular: no celular, a navegação
 fica numa barra inferior (como um app nativo) e há um botão flutuante (+)
 para adicionar um lançamento rapidamente.
 
-## Como usar
-
-1. Extraia o arquivo `.zip`.
-2. Dê duplo clique em **`index.html`**. Ele abre no seu navegador (Chrome,
-   Edge, Firefox...) e funciona como um programa normal.
-3. Pronto — pode começar a usar. Não precisa instalar nada.
-
-> Dica: crie um atalho do `index.html` na área de trabalho para acessar mais rápido.
 
 ## O que o sistema faz
 
